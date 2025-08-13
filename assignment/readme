@@ -1,0 +1,13 @@
+    
+   . Program finds all prime numbers ≤ N (user input).
+   . Uses only while loops.
+   . Starts checking from 2 (smallest prime).
+   . For each number up to N:
+   . ssume it is prime.
+   . Check divisibility from 2 to √number.
+   . If divisible, mark as not prime.
+   . Prints all prime numbers found.
+   . Save as prime_finder.py.
+   . Run using python prime_finder.py.
+   . Input N when prompted.
+   . Output: list of prime numbers ≤ N.
