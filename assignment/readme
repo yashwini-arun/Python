@@ -1,0 +1,8 @@
+    .Program asks the user to enter scores separated by spaces.
+    .Converts the input into a list of integers.
+    .Calculates the mean by summing all scores and dividing by the count.
+    .Sorts the list to help find the median.
+    .Determines the median depending on whether the count is odd    or even.
+    .Finds the mode by counting occurrences of each score without using libraries.
+    .Displays the calculated mean, median, and mode to the user.
+    .Works without importing any external libraries.
