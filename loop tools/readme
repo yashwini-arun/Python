@@ -1,9 +1,0 @@
-    .Demonstrates for loop with range()
-    .Demonstrates while loop
-    .Uses break to exit a loop early
-    .Uses continue to skip an iteration
-    .Demonstrates else with loops
-    .Uses enumerate() to get index and value from a list
-    .Uses zip() to iterate over multiple lists together
-    .Uses iter() and next() for manual iteration
-    .Easy to run and practice basic Python loops
