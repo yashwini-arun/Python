@@ -1,0 +1,33 @@
+Alternative Merge List
+    Takes two lists as input.
+    Merges them by picking elements alternately from each list.
+    Handles cases where lists are of unequal lengths.
+    Returns or prints the merged list.
+
+
+Pair Sum Finder
+    Accepts a list of numbers and a target sum.
+    Finds all unique pairs whose sum equals the target.
+    Avoids duplicate pair outputs.
+    Displays the found pairs to the user.
+
+
+Pyramid
+    Takes the number of rows as input from the user.
+    Generates a pyramid shape using symbols (e.g., *).
+    Uses loops to manage spacing and alignment.
+    Displays the pyramid neatly in the console.
+
+
+Secret Message
+    Takes a message from the user.
+    Encodes the message using a custom transformation logic.
+    Can decode back to the original message if needed.
+    Demonstrates string manipulation with lists/tuples.
+
+
+Tuple Based
+Shows creation and usage of tuples in Python.
+Demonstrates tuple indexing, slicing, and unpacking.
+Includes examples of nested tuples.
+Highlights immutability and when to use tuples over lists.
