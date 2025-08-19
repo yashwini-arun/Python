@@ -1,0 +1,20 @@
+JOB ELIGIBILITY:
+
+    .Implements a custom my_filter function similar to Python’s built-in filter.
+    .Defines an is_eligible function to check if a candidate has at least 2 years of experience and knows Python.
+    .Maintains a list of applicants with details: name, experience, and skills.
+    .Prints all applicants’ names before filtering.
+    .Uses my_filter with is_eligible to extract only eligible applicants.
+    .Displays eligible candidates with their name, experience, and skills.
+    .Demonstrates use of functions, lists, dictionaries, and filtering logic.
+
+PRICE CALCULATOR:
+
+    .Defines a function add_gst to calculate price after adding 18% GST.
+    .Accepts multiple product prices as space-separated input from the user.
+    .Uses map() to apply add_gst function to all entered prices.
+    .Stores both original prices and GST-added prices in lists.
+    .Prints a bill details table showing original vs. GST prices.
+    .Calculates and displays the total bill amount with GST.
+    .Demonstrates functions, map(), lists, and iteration with zip().
+  
