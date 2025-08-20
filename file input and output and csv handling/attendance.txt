@@ -1,0 +1,4 @@
+RollNo,Name,Status
+1,Alice,Present
+2,Bob,Absent
+3,Charlie,Present

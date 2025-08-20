@@ -1,0 +1,5 @@
+BookID,Title,Author,Available
+1,Python Basics,John,Yes
+2,Data Science,Alice,Yes
+3,Machine Learning,Bob,No
+4,AI with Python,Charlie,Yes
