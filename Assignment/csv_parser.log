@@ -1,8 +1,0 @@
-2025-08-21 19:27:40,477 - ERROR - Error parsing row 3: invalid literal for int() with base 10: 'three' | Data: {'id': 'three', 'name': 'Charlie', 'age': '40'}
-2025-08-21 19:27:40,478 - ERROR - Error parsing row 4: invalid literal for int() with base 10: 'twenty' | Data: {'id': '4', 'name': 'David', 'age': 'twenty'}
-2025-08-21 19:27:40,478 - ERROR - Error parsing row 7: invalid literal for int() with base 10: 'abc' | Data: {'id': '7', 'name': 'Grace', 'age': 'abc'}
-2025-08-21 19:27:40,478 - ERROR - Error parsing row 10: invalid literal for int() with base 10: 'ten' | Data: {'id': 'ten', 'name': 'Jack', 'age': '45'}
-2025-08-21 19:28:16,353 - ERROR - Error parsing row 3: invalid literal for int() with base 10: 'three' | Data: {'id': 'three', 'name': 'Charlie', 'age': '40'}
-2025-08-21 19:28:16,353 - ERROR - Error parsing row 4: invalid literal for int() with base 10: 'twenty' | Data: {'id': '4', 'name': 'David', 'age': 'twenty'}
-2025-08-21 19:28:16,354 - ERROR - Error parsing row 7: invalid literal for int() with base 10: 'abc' | Data: {'id': '7', 'name': 'Grace', 'age': 'abc'}
-2025-08-21 19:28:16,354 - ERROR - Error parsing row 10: invalid literal for int() with base 10: 'ten' | Data: {'id': 'ten', 'name': 'Jack', 'age': '45'}
